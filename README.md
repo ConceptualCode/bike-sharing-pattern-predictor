@@ -7,5 +7,5 @@ In this project, I built a neural network that is used to predict the daily bike
 - Imported necessary libraries
 - Loaded and preprocessed the data
 - Built the neural network and set the hyperparameters
-- Implimented forward and backward pass
+- Implemented forward and backward pass
 - Trained it and made the predictions
